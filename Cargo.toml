@@ -1,0 +1,6 @@
+[package]
+name = "mathai"
+version = "0.1.0"
+authors = ["Eric B. Harrison <ebharrison@ucdavis.edu>"]
+
+[dependencies]
